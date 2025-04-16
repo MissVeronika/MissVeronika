@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I am Veronika Ushynska
 
-<!--
-**MissVeronika/MissVeronika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I am a Web Developer with a deep passion for technology and coding   
+🧠 Focused on creating modern, user-friendly, and responsive web applications  
+🎓 Holder of a degree in Computer Programming and Analysis
+🌍 Fluent in English, Russian, Ukrainian, and Hebrew
 
-Here are some ideas to get you started:
+I am dedicated to creating innovative solutions and leveraging my skills to contribute to the ever-evolving landscape of technology 
+Let's build something amazing together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📬 Let's Connect
+
+📧 Veronika.Ushynska@gmail.com   
+🔗 [LinkedIn](https://www.linkedin.com/in/veronikaushynska)  
+🐙 [GitHub](https://github.com/MissVeronika)
