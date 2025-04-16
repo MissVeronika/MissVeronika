@@ -7,6 +7,7 @@
 🌍 Fluent in English, Russian, Ukrainian, and Hebrew
 
 I am dedicated to creating innovative solutions and leveraging my skills to contribute to the ever-evolving landscape of technology.
+
 Let's build something amazing together!
 
 ---
